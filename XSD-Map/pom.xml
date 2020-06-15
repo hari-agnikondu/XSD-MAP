@@ -16,7 +16,7 @@
 
 	<properties>
 		<commons.lang3.version>3.3.2</commons.lang3.version>
-		<xerces.version>2.11.0</xerces.version>
+		<xerces.version>2.12.0</xerces.version>
 		<java.version>1.8</java.version>
 	</properties>
 
